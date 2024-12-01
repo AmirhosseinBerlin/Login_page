@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    background-color: #cdc8c86a;
+    display: grid;
+}
+
+.box {
+    margin-top: 100px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 3px 3px 5px rgb(53, 53, 243), -3px -3px 10px hsla(227, 59%, 56%, 0.718);
+
+}
+
+label {
+    display: block;
+    text-align: left;
+    margin-bottom: 20px;
+    color: hsl(229, 97%, 51%);
+}
+
+input {
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid hsla(219, 6%, 55%, 0.544);
+    border-radius: 10px;
+}
